@@ -31,7 +31,7 @@ public class Avaliacao {
 			System.out.println("O Aluno: " + aluno.nome + " Não passou de ano");
 			System.out.printf("Sua nota final foi: %.2f %n ", aluno.passouDeAno());
 		} else {
-			System.out.println("Passou de ano");
+			System.out.println("O Aluno Passou de ano");
 		}
 		
 		sc.close();
